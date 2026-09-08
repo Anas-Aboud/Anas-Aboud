@@ -30,7 +30,7 @@ I am building practical experience through academic projects in frontend develop
 
 - Analyzed queue-management problems and translated research into a user need, insight, and task.
 - Co-created three low-fidelity task flows for viewing, joining, and leaving queues.
-- Contributed to seven unique high-fidelity interfaces covering queue discovery, joining, tracking, leaving, and profile management.
+- Contributed to the high-fidelity section: seven unique interfaces covering queue discovery, joining, tracking, leaving, and profile management, plus the program explanation.
 - This is a UI/UX prototype; it is not an implemented mobile application.
 
 ### Web Development Labs
@@ -57,4 +57,3 @@ I am building practical experience through academic projects in frontend develop
 ## What I am looking for
 
 I am looking for an internship where I can contribute to scoped development tasks, learn from code review, practice debugging and testing, and understand how frontend, backend, API, and database work fit together in a real engineering team.
-
