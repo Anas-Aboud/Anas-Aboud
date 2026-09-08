@@ -7,7 +7,7 @@ I am building practical experience through academic projects in frontend develop
 
 ## Selected projects
 
-### NBA Player Search
+### [NBA Player Search](https://github.com/Anas-Aboud/nba-player-search)
 
 **Completed academic team project | Frontend implementation by me**
 
@@ -16,7 +16,7 @@ I am building practical experience through academic projects in frontend develop
 - Rendered results in the DOM and handled validation, empty results, API failures, and reset behavior.
 - The public-ready version removes the API key that was embedded in the original course file.
 
-### AutoStock Inventory System
+### [AutoStock Inventory System](https://github.com/Anas-Aboud/autostock-system-analysis)
 
 **Academic team project | Design and analysis prototype**
 
@@ -24,7 +24,7 @@ I am building practical experience through academic projects in frontend develop
 - Created the event table, functional and non-functional requirements, and UML use case diagram.
 - This is a documented prototype; no working backend, database, or automated ordering service has been implemented.
 
-### LineUP Virtual Queue App
+### [LineUP Virtual Queue App](https://github.com/Anas-Aboud/lineup-virtual-queue-ux)
 
 **Academic team project | HCI prototype**
 
@@ -33,7 +33,7 @@ I am building practical experience through academic projects in frontend develop
 - Contributed to the high-fidelity section: seven unique interfaces covering queue discovery, joining, tracking, leaving, and profile management, plus the program explanation.
 - This is a UI/UX prototype; it is not an implemented mobile application.
 
-### Web Development Labs
+### [Web Development Labs](https://github.com/Anas-Aboud/web-development-labs)
 
 **Completed foundational coursework**
 
@@ -43,8 +43,8 @@ I am building practical experience through academic projects in frontend develop
 
 ## Additional case studies
 
-- **Brokerage Information System:** completed the General Analysis, including a UML use case diagram, use case descriptions, business goals, use cases, and system constraints.
-- **E-Voting System:** created the stakeholder map, product use case diagram, and successful and unsuccessful use case scenarios.
+- **[Brokerage Information System](https://github.com/Anas-Aboud/requirements-architecture-case-studies/tree/main/brokerage-information-system):** completed the General Analysis, including a UML use case diagram, use case descriptions, business goals, use cases, and system constraints.
+- **[E-Voting System](https://github.com/Anas-Aboud/requirements-architecture-case-studies/tree/main/e-voting-system):** created the stakeholder map, product use case diagram, and successful and unsuccessful use case scenarios.
 - **Smart Academic Advisor:** unfinished learning prototype; kept separate from completed work until its source and main workflows can be verified.
 
 ## Skills demonstrated in the reviewed files
