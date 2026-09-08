@@ -1,4 +1,4 @@
-# Hi, I'm Anas Aboud
+# Hi, I'm Anas Aboud Almunyah
 
 **Software Engineering student at the University of Jeddah**  
 Jeddah, Saudi Arabia | Seeking a software engineering internship
