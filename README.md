@@ -34,13 +34,6 @@ I am building practical experience through academic projects in frontend develop
 - This is a UI/UX prototype; it is not an implemented mobile application.
 
 
-
-## Additional case studies
-
-- **[Brokerage Information System](https://github.com/Anas-Aboud/requirements-architecture-case-studies/tree/main/brokerage-information-system):** completed the General Analysis, including a UML use case diagram, use case descriptions, business goals, use cases, and system constraints.
-- **[E-Voting System](https://github.com/Anas-Aboud/requirements-architecture-case-studies/tree/main/e-voting-system):** created the stakeholder map, product use case diagram, and successful and unsuccessful use case scenarios.
-- **Smart Academic Advisor:** unfinished learning prototype; kept separate from completed work until its source and main workflows can be verified.
-
 ## Skills demonstrated in the reviewed files
 
 - **Web:** HTML, CSS, JavaScript, DOM manipulation, responsive design
