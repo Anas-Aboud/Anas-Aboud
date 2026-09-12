@@ -33,13 +33,7 @@ I am building practical experience through academic projects in frontend develop
 - Contributed to the high-fidelity section: seven unique interfaces covering queue discovery, joining, tracking, leaving, and profile management, plus the program explanation.
 - This is a UI/UX prototype; it is not an implemented mobile application.
 
-### [Web Development Labs](https://github.com/Anas-Aboud/web-development-labs)
 
-**Completed foundational coursework**
-
-- Practiced semantic HTML, tables, forms, CSS Grid, responsive layouts, and introductory JavaScript.
-- Completed Lab 2 Tasks 3-5, Lab 5 Task 1, and Lab 6 Tasks 1-4.
-- The repository presents small learning exercises, not a production application.
 
 ## Additional case studies
 
