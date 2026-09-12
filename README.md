@@ -3,7 +3,7 @@
 **Software Engineering student at the University of Jeddah**  
 Jeddah, Saudi Arabia | Seeking a software engineering internship
 
-I am building practical experience through academic projects in frontend development, API integration, UI/UX prototyping, requirements analysis, and software architecture. My current goal is to strengthen my JavaScript skills, learn modern web development workflows, and become comfortable using Git and GitHub in a team.
+I built the frontend for an NBA player-search course project and contributed design work to academic team projects about inventory management and virtual queues. The projects below show what I worked on and what each prototype can do.
 
 ## Selected projects
 
@@ -39,7 +39,6 @@ I am building practical experience through academic projects in frontend develop
 - **Web:** HTML, CSS, JavaScript, DOM manipulation, responsive design
 - **APIs:** Fetch API, REST API consumption, async/await, basic error handling
 - **Analysis and design:** Figma, UML, use case modeling, requirements analysis, stakeholder analysis, HCI
-- **Currently learning:** Git/GitHub fundamentals, JavaScript and TypeScript, modern frontend frameworks, backend APIs, and databases
 
 ## What I am looking for
 
